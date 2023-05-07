@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">imdb_clone</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="prefs_key">watchlist</string>
+    <string name="share_text_add">Share my profile</string>
+    <string name="drawable_image_key">userImage</string>
+    <string name="your_favourite">Your Favourite !</string>
+    <string name="all_movies">All Movies !</string>
+    <string name="dummy_text_user_name">Marky</string>
+    <string name="movies_watched">Movies watched</string>
+    <string name="dummy_movie_watched">100</string>
+    <string name="favourite_movies">Favourite Movies</string>
+    <string name="dummy_number_fav_movies">3</string>
+    <string name="shared_movies">Shared Movies</string>
+    <string name="dummy_number_shared_movie">33</string>
+    <string name="dummy_mail">marky@gmail.com</string>
+    <string name="dummy_number">+90009334400</string>
+    <string name="dummy_location">Silicon Valley</string>
+    <string name="dummy_status">The biggest risk is not taking risk</string>
+    <string name="share_my_profile">Share My Profile</string>
+    <string name="title">Title :</string>
+    <string name="cast">Cast :</string>
+    <string name="runtime">Runtime :</string>
+    <string name="year">Year :</string>
+</resources>
