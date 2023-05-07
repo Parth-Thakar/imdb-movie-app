@@ -33,6 +33,10 @@ https://drive.google.com/file/d/11RX7jTHFyUWkCWJFEoqH80qOH7mX4-T-/view?usp=share
 - SpinKit.
 - LiveData - ViewModel
 
+## APK - File
+
+https://github.com/Parth-Thakar/imdb-movie-app/raw/main/release/imdb-clone.apk
+
 ## ScreenShots
 
 https://drive.google.com/drive/folders/1Iz_sO7X1aRDjVKHRt9A1ptepnxum3G1c?usp=share_link
