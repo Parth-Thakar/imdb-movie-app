@@ -14,7 +14,6 @@ import javax.inject.Singleton
 @Module
 class NetworkModule {
 
-
     // Module class for returning the instance of retrofit
     @Singleton
     @Provides
@@ -27,8 +26,6 @@ class NetworkModule {
     @Singleton
     @Provides
     fun providesApi(retrofit: Retrofit):MovApi{
-
         return retrofit.create(MovApi::class.java)
-
     }
 }
